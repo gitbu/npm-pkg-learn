@@ -21,6 +21,7 @@
 * [cross-env](https://github.com/kentcdodds/cross-env): 解决跨平台设置NODE_ENV的问题
 * [jscodeshift](https://github.com/facebook/jscodeshift): jcodeshift是facebook出的一款围绕recast的增强过的可以遍历更改js 里面ast节点 并且重新生成js代码的工具。 基于ast的代码重构工具题
 * [minimist](https://github.com/substack/minimist):转化process.argv参数成对象
+* [fs-extra](https://github.com/jprichardson/node-fs-extra):fs-extra是fs的一个扩展，提供了非常多的便利API，并且继承了fs所有方法和为fs方法添加了promise的支持
 
 ## 服务端常用包
 
