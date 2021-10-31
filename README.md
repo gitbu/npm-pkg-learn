@@ -5,6 +5,7 @@
 ## shell常用包
 * [commander](https://github.com/tj/commander.js): 可以自动的解析命令和参数，用于处理用户输入的命令。
 * [shelljs](https://github.com/shelljs/shelljs): unix shell commander for nodejs(exec|execFile|spawn)
+* [clc](https://www.npmjs.com/package/cac): Command And Conquer is a JavaScript library for building CLI apps
 * [zx](https://github.com/google/zx): A tool for writing better scripts
 * [inquirer](https://github.com/SBoudrias/Inquirer.js): 通用的命令行用户界面集合，用于和用户进行交互。
 * [chalk](https://github.com/chalk/chalk): 可以给终端的字体加上颜色。
