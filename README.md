@@ -10,6 +10,7 @@
 * [inquirer](https://github.com/SBoudrias/Inquirer.js): 通用的命令行用户界面集合，用于和用户进行交互。
 * [chalk](https://github.com/chalk/chalk): 可以给终端的字体加上颜色。
 * [ora](https://github.com/sindresorhus/ora): 用于显示下载中的动画效果。
+* [plop](https://github.com/plopjs/plop):命令行交互工具
 
 ## 脚手架常用包
 * [node-notifier](https://github.com/mikaelbr/node-notifier): 桌面通知
