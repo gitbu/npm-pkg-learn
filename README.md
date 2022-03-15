@@ -31,3 +31,4 @@
 * [config](https://github.com/lorenwest/node-config): 管理不同环境下的不同的配置文件
 * [fs-extra](https://github.com/jprichardson/node-fs-extra):fs-extra是fs的一个扩展，提供了非常多的便利API，并且继承了fs所有方法和为fs方法添加了promise的支持
 * [micromatch](https://github.com/micromatch/micromatch):glob匹配库
+* [node-glob](https://github.com/isaacs/node-glob): 可以方便的匹配到目录中指定格式的文件
