@@ -28,6 +28,7 @@
 * [semver](https://github.com/npm/node-semver):语义化版本控制规范
 * [detect-port](https://github.com/node-modules/detect-port):检测端口是否被占用
 * [yargs-parser](https://github.com/yargs/yargs-parser): 可以把node的命令行option参数转化成对象
+* [json5](https://github.com/json5/json5):json格式的超集
 ## 服务端常用包
 
 * [config](https://github.com/lorenwest/node-config): 管理不同环境下的不同的配置文件
