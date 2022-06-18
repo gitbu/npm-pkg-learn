@@ -26,6 +26,8 @@
 * [jscodeshift](https://github.com/facebook/jscodeshift): jcodeshift是facebook出的一款围绕recast的增强过的可以遍历更改js 里面ast节点 并且重新生成js代码的工具。 基于ast的代码重构工具题
 * [minimist](https://github.com/substack/minimist):转化process.argv参数成对象
 * [semver](https://github.com/npm/node-semver):语义化版本控制规范
+* [detect-port](https://github.com/node-modules/detect-port):检测端口是否被占用
+* [yargs-parser](https://github.com/yargs/yargs-parser): 可以把node的命令行option参数转化成对象
 ## 服务端常用包
 
 * [config](https://github.com/lorenwest/node-config): 管理不同环境下的不同的配置文件
